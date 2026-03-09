@@ -367,7 +367,7 @@ address {
 .footer-socials {
   display: flex;
   gap: 24px;
-  margin-top: 24px;
+
 }
 
 .footer-socials .social-link {
@@ -383,7 +383,7 @@ address {
 
 .footer-socials .social-link:hover,
 .footer-socials .social-link:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
 .footer-container {
   display: flex;
